@@ -1,1 +1,1 @@
-PyTa=elegramBotApi
+PyTelegramBotApi
